@@ -1,4 +1,1 @@
-https://github.com/vipin2387/SDET.git
-
-username - vipin2387
-password - C**$$****
+This a basic frameworks that will be useful for freshers to learn Selenium
