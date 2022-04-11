@@ -1,1 +1,0 @@
-This a basic frameworks that will be useful for freshers to learn Selenium
